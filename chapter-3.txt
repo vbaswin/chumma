@@ -1,1 +1,2 @@
 hi chapter3 is already out!
+to know difference between staged and unstaged commits
